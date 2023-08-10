@@ -1,9 +1,11 @@
+![AdsıDDDDDz](https://github.com/molla202/Arthera-Testnet/assets/91562185/803d764a-22e6-4051-b8fd-40900516fd6e)
 
-CPU: 4 cores / 8 threads, 2.6GHz, or faster
-RAM: 8GB or more
-Disk: 500GB of SSD storage or more
-Network: 1GBps, Public IP
-
+## Sistem Gereksinimleri
+| Bileşenler | Minimum Gereksinimler | 
+| ------------ | ------------ |
+| CPU |	4-8|
+| RAM	| 8+ GB |
+| Storage	| 500 GB SSD |
 
 ## Update edelim
 ```bash
